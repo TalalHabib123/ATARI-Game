@@ -1,0 +1,171 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  P_i211111_project.cpp
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.h(299,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\PowerUp.h(100,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\PowerUp.h(100,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\PowerUp.h(104,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\PowerUp.h(104,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(123,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(123,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(130,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(130,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(137,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(137,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(145,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(145,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(155,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(155,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(161,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(161,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(167,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(167,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(174,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\Player.h(174,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(125,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(125,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(132,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(132,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(139,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(139,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(147,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(147,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(158,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(158,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(164,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(164,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(170,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(170,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(177,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\NPC.h(177,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(575,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(606,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1179,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1179,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1183,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1183,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1288,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1288,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1292,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(1292,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\P_i211111_project.cpp(2059,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(16232,45): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(14785,1): message : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(14663,39): message : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(23037,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(23028,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(23023,7): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(34724,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(19524,1): message : see reference to class template instantiation 'cimg_library::CImg<double>' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(52471,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(19228,1): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(19226,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(16231,43): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  util.cpp
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.h(299,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(9,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(12,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(19,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(19,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(20,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(20,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(21,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(21,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(22,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(22,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(23,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(23,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(24,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(24,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(61,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(109,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(113,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(113,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(114,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(114,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(167,17): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(172,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(261,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(273,3): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(273,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(273,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(273,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(322,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(322,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(326,44): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(326,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(334,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(334,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(337,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(337,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(343,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(343,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(347,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(347,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(351,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(351,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(355,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(355,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(363,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(363,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(367,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(367,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(383,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(383,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(390,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(390,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(397,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(397,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(404,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(404,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(411,33): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(410,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(423,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(423,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(425,40): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(425,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(428,46): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(428,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(430,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(430,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(443,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(443,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(444,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(444,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(445,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(445,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(446,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(446,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(447,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(447,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(448,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\util.cpp(448,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(16232,45): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(14785,1): message : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(14663,39): message : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(23037,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(23028,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(23023,7): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(34724,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(19524,1): message : see reference to class template instantiation 'cimg_library::CImg<double>' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(52471,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(19228,1): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(19226,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+C:\Users\talal\Documents\GitHub\ATARI-Game\project2\CImg.h(16231,43): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  Generating Code...
+  Project2.vcxproj -> C:\Users\talal\Documents\GitHub\ATARI-Game\x64\Debug\ATARI Game.exe
